@@ -1,6 +1,6 @@
 # nginx-web-app  
-**Deploy a Web App on Nginx Server using AWS App Runner**  
-By AWS Workshop  
+**By AWS Workshop**  
+**Deploy a Web App on Nginx Server using AWS App Runner**
 
 ---
 
